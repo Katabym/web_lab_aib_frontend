@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+}
+
+body {
+  color: HoneyDew;
+  display: flex;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  background-color: CornflowerBlue;
+}
